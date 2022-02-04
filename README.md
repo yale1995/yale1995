@@ -17,7 +17,7 @@ Natal / São Paulo, BR.
 **Universidade Federal do Rio Grande do Norte - UFRN** 
 
 * Mechanicall Engineering
-* Bachelor Science and Technology
+* Bachelor of Science and Technology
 
 ## Skills
 
