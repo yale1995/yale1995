@@ -14,9 +14,12 @@ Natal / São Paulo, BR.
 
 ## Education
 
-**Universidade Federal do Rio Grande do Norte - UFRN** 
+**Universidade Federal do Rio Grande do Norte - UFRN - 2020** 
 
 * Mechanicall Engineering
+
+**Universidade Federal do Rio Grande do Norte - UFRN - 2018** 
+
 * Bachelor of Science and Technology
 
 ## Skills
