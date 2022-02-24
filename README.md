@@ -9,7 +9,7 @@ Natal / São Paulo, BR.
 
 ## Experience
 
-*2022/01 - Present* - **Front-End Developer (Intern)** - http://rumoadefensoria.com
+*06/2021 - 12/2021* - **Front-End Developer (Intern)** - http://rumoadefensoria.com
 * Working for a modernization site, updating the program language and adding new functionality to users.
 
 ## Education
