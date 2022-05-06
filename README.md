@@ -27,12 +27,15 @@ Natal / São Paulo, BR.
 ### Languages
 
 * JavaScript
+* TypeScript
 
 ### Front-End
 * HTML
 * CSS
 * React JS
 * Next JS
+* SASS
+* Chakra-UI
 
 ### Others
 * Git
